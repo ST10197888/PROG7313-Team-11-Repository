@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BudgetWise</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_budget">Budget</string>
+    <string name="nav_profile">Profile</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="total_income">Income</string>
+    <string name="total_expenses">Expenses</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="see_all">See All</string>
+    <string name="no_transactions">No transactions yet.\nTap + to add one!</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="title_hint">Title (e.g. Salary, Groceries)</string>
+    <string name="amount_hint">Amount</string>
+    <string name="notes_hint">Notes (optional)</string>
+    <string name="save_transaction">Save Transaction</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="all_transactions">All Transactions</string>
+
+    <!-- Budget Goals -->
+    <string name="budget_goals">Budget Goals</string>
+    <string name="set_budget_limit">Set a Budget Limit</string>
+    <string name="monthly_limit_hint">Monthly Limit (R)</string>
+    <string name="save_goal">Save Goal</string>
+    <string name="delete_goal">Delete goal</string>
+    <string name="select_category_description">Select budget category</string>
+
+    <!-- Settings and Fragments -->
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <!-- Navigation Drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
